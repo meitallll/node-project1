@@ -275,3 +275,31 @@ body {
         grid-template-columns: 1fr;
     }
 }
+/* Footer */
+.footer {
+  background-color: #ffffff;
+  border-top: 1px solid #ddd;
+  margin-top: 40px;
+  padding: 20px 0;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+.footer-links a {
+  color: #4a5fd8;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+
+
